@@ -7,3 +7,5 @@ LinkedIn: https://www.linkedin.com/in/vikram-singh3/
 Personal Website: https://vdsingh.github.io
 
 Email: vdsingh@umass.edu
+
+<figure><embed src="https://wakatime.com/share/@fa6a2272-9b9f-4dd9-9c98-4995d2f6d497/a4a7c542-de55-45f1-a016-e68697a43a26.svg"></embed></figure>
