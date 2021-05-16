@@ -8,3 +8,4 @@ Personal Website: https://vdsingh.github.io
 
 Email: vdsingh@umass.edu
 
+The pinned projects are what I'm currently working on: 
