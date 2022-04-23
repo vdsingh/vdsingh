@@ -8,4 +8,4 @@ Personal Website: https://vdsingh.github.io
 
 Email: vdsingh@umass.edu
 
-The pinned projects are the mobile apps I've developed: 
+The pinned projects are the mobile apps I've developed/am developing: 
