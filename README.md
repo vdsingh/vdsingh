@@ -10,4 +10,4 @@ Personal Website: https://vdsingh.github.io
 
 Email: vdsingh@umass.edu
 
-The pinned projects are the mobile apps I've developed/am developing: 
+The pinned projects are the mobile apps I've developed/am developing. EvolveAI is my most recent project and most accurately reflects my skills. Take a look through the APIClient and the Custom Form Implementation in the View/ViewModel layers (start here: Views/FormQuestion/EAFormElement): 
