@@ -12,4 +12,4 @@ Email: vdsingh@umass.edu
 
 The pinned projects are the mobile apps I've developed/am developing. 
 
-* If you're curious EvolveAI is my most recent project and most accurately reflects my skills (Demo here: https://www.youtube.com/watch?v=PRTSTZBC_b0&ab_channel=VikramSingh)*
+* EvolveAI is my most recent project and most accurately reflects my skills (Demo here: https://www.youtube.com/watch?v=PRTSTZBC_b0&ab_channel=VikramSingh)*
