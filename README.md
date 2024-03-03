@@ -1,7 +1,7 @@
 ### Hi! I'm Vik 👋
 
-- Undergrad Class of 2023 at UMass Amherst - Computer Science and Mathematics. 
-- Interested in developing satisfying UXs through iOS Development. 
+- UMass Amherst 2023 Grad - B.S. in Computer Science with a minor in Mathematics
+- Interested in developing satisfying UXs through iOS Development
 
 Feel free to reach out!
 
