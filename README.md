@@ -1,14 +1,14 @@
 ### Hi! I'm Vik 👋
 
-- Undergraduate at UMass Amherst studying Computer Science and Mathematics. 
-- Interested in iOS Development, User Experience, and Artificial Intelligence. 
+- Undergrad Class of 2023 at UMass Amherst - Computer Science and Mathematics. 
+- Interested in developing satisfying UXs through iOS Development. 
 
-Feel free to reach out if you have any questions about my projects or if you just want to chat. You can find more information about me on my LinkedIn and on my personal website.
+Feel free to reach out!
 
 LinkedIn: https://www.linkedin.com/in/vikram-singh3/
 
 Personal Website: https://vdsingh.github.io
 
-Email: vdsingh@umass.edu
+Email: vik.singh.2019@gmail.com
 
 The pinned projects are some of the mobile apps I've developed/am developing.
