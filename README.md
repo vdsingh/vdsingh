@@ -1,7 +1,7 @@
 ### Hi! I'm Vik 👋
 
 - iOS @ Lyft
-- UMass Amherst 2023 Grad - B.S. in Computer Science with a minor in Mathematics
+- UMass Amherst 2023 Grad - B.S. in Computer Science with a minor in Math
 - Passionate about developing satisfying iOS UXs
 
 Feel free to reach out!
