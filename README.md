@@ -1,6 +1,6 @@
 ### Hi! I'm Vik 👋
 
-- iOS @ Lyft
+- iOS @ Robinhood
 - UMass Amherst 2023 Grad - B.S. in Computer Science with a minor in Math
 - Passionate about developing satisfying iOS UXs
 
