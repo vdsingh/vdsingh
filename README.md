@@ -1,6 +1,6 @@
 ### Hi! I'm Vik 👋
 
-- iOS @ Robinhood
+- Eng @ [Ami](https://ami.app)
 - UMass Amherst 2023 Grad - B.S. in Computer Science with a minor in Math
 - Passionate about developing satisfying iOS UXs
 
